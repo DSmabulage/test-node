@@ -1,0 +1,23 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSmabulage/test-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSmabulage/test-node/issues"
+  },
+  "homepage": "https://github.com/DSmabulage/test-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
